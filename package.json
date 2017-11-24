@@ -1,6 +1,6 @@
 {
   "name": "lividum-core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Core scrapping engine of Lividum.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "Andi N. Dirgantara",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/hellowin/lividum-core.git"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.83.0",
